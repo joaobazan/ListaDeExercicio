@@ -36,3 +36,7 @@ if (num % 2 === 0) {
 } else {
     console.log(`O número ${num} é impar.`);
 }
+let nota1 = 9;
+let nota2 = 8;
+let media = (nota1 + nota2) / 2;
+console.log(`a media é ${media} nota1 é ${nota1} e nota2 é ${nota2}`)
